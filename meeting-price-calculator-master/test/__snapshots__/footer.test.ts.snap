@@ -1,0 +1,70 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer Component should match a snapshot correctly 1`] = `
+Stream {
+  "_d": false,
+  "_dl": Object {},
+  "_err": Object {},
+  "_ils": Array [],
+  "_prod": MapOp {
+    "f": [Function],
+    "ins": Stream {
+      "_d": false,
+      "_dl": Object {},
+      "_err": Object {},
+      "_ils": Array [],
+      "_prod": FromArray {
+        "a": Array [
+          <footer.footer_f19tl4e9>
+            <a.link_frxg3q8
+              attrs={
+                Object {
+                  "href": "https://cycle.js.org/",
+                  "target": "_blank",
+                }
+              }
+            >
+              Built with CycleJS
+              <img.logo_f7jvbo9
+                attrs={
+                  Object {
+                    "src": Object {
+                      "process": [Function],
+                    },
+                  }
+                }
+              />
+            </a.link_frxg3q8>
+            <a.link_frxg3q8
+              attrs={
+                Object {
+                  "href": "https://github.com/olpeh/meeting-price-calculator",
+                  "target": "_blank",
+                }
+              }
+            >
+              By olpeh
+              <img.logo_f7jvbo9
+                attrs={
+                  Object {
+                    "src": Object {
+                      "process": [Function],
+                    },
+                  }
+                }
+              />
+            </a.link_frxg3q8>
+          </footer.footer_f19tl4e9>,
+        ],
+        "type": "fromArray",
+      },
+      "_stopID": Object {},
+      "_target": Object {},
+    },
+    "out": Object {},
+    "type": "map",
+  },
+  "_stopID": Object {},
+  "_target": Object {},
+}
+`;
